@@ -19,7 +19,7 @@
 
 
 ## My Skill Set / 我的技术栈  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -46,7 +46,5 @@
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>
+</table>
 <br />
